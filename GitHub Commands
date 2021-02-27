@@ -1,1 +1,5 @@
+# git clone
+# git add file_name
+# git commit -m "Comments"
+# git push origin branch_name  /master/feature
 

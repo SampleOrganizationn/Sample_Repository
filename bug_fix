@@ -1,0 +1,25 @@
+#PROJECT 1
+ACO Suite HealthCare 
+Position: Build and Release Engineer
+
+Roles and Responsibilities
+
+•	Created CI/CD jobs for multiple projects and resolved all kind of issue which are encounter during the build and deploy process.
+•	Setting up GitHub cloud from scratch and created multiple repositories for various projects.
+•	Implemented webhooks for GitHubd to notify the CI servers on various requests.
+•	LDAP with GitHub to handle the access requests.
+•	Handled the migration of SVN projects to GIT/GitHub
+•	Used GIT as version control system and handled the administration activities.
+•	Configured AWS CodeCommit, CodeBuild and Code deploy services for spring boot applications.
+•	Handled end-end deployments and code promotions across different environments.
+•	Written MAVEN scripts for the backend files compilation.
+•	Involved in implementing the scripts for compiling the front-end files with different configurations.
+•	Created Jenkins jobs for all the projects and automated the CI and CD process
+•	Triggered jobs automatically for build and deployments through Jenkins.
+•	Handle multiple builds from Development team, create build and perform deployment activities to Dev Server, QA Server, Demo Server, Staging Server and PreProd Server.
+•	Coordinating with the respective developer on build failures
+•	Designing and implementing fully automated server build management, monitoring and deployment.
+•	Reduced the Workload and Manual intervention in build and deployment process
+•	Monitoring of Web Sphere server and Jenkins server for performance analysis.
+•	Involved in release meeting, bug reviews and branch strategic meeting with environment leads.
+

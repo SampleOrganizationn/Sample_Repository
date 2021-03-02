@@ -32,3 +32,9 @@
 29. How can you discover if a branch has already been merged or not?
 30. What is “git cherry-pick”?
 
+31
+32
+33
+34
+35
+36

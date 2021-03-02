@@ -1,0 +1,34 @@
+1. What is Git?
+2. What do you understand by the term ‘Version Control System’?
+3. What’s the difference between Git and GitHub?
+4. What is a Git repository?
+5. How can you initialize a repository in Git?
+6. Name a few Git commands with their function.
+7. What are the advantages of using Git?
+8. What language is used in Git?
+9. What is a commit message, and how is the commit command executed?
+10. Name some of the popular Git hosting repositories.
+
+11. Explain the git push command.
+12. Explain the git pull command.
+13. Difference between git fetch and git pull.
+14. What is a merge con??ict in Git?
+15. How do you resolve a merge con??ict?
+16. What is the process to revert a commit that has already been pushed and made public?
+17. How is a bare repository different from the standard way of initializing a Git repository?
+18. What is Git stash?
+19. What does the git reset --mixed and git merge --abort commands do?
+20. How do you ??nd a list of ??les that has been changed in a particular commit?
+20. How do you ??nd a list of ??les that has been changed in a particular commit?
+
+21. Explain the different points when a merge can enter a con??icted stage
+22. What is the difference between fork, branch, and clone?
+23. What is the difference between git merge and git rebase?
+24. What is the command used to ??x a broken commit?
+25. How is ‘git remote’ different from ‘git clone’?
+26. What is git stash drop?
+27. If you recover a deleted branch, what work is restored?
+28. What’s the difference between reverting and resetting?
+29. How can you discover if a branch has already been merged or not?
+30. What is “git cherry-pick”?
+
